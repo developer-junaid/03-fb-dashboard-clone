@@ -1,4 +1,4 @@
-# 🔥 Facebook Dashboard Clone – HTML & CSS Only (2025)
+# 🔥 Facebook Dashboard Clone – HTML & CSS Only (2026)
 
 A **responsive Facebook-style dashboard UI** built using just **HTML and CSS** — no frameworks, no JavaScript.
 
@@ -86,7 +86,7 @@ If you're following along the YouTube series and built your own version,
 ## ⭐ Credits
 
 Created by [Developer Junaid](https://www.youtube.com/DeveloperJunaid)  
-Part of 2025 HTML & CSS Crash Course Series in Urdu / Hindi
+Part of 2026 HTML & CSS Crash Course Series in Urdu / Hindi
 
 ---
 
